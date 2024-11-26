@@ -1,0 +1,44 @@
+
+h1{
+    text-align: center;
+    color: #e10b8f;
+    font-family: tahoma;
+}
+.hasit{
+    color: #b6fa08;
+}
+
+.intra{
+    color: #08c1fa;
+}
+
+.ttra{
+    color: #14fa08;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f10a66;
+}
+
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro{
+    font-size: 80%;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#nitro{
+    font-family: tahoma;
+    color: #f1a80a;
+}
+
+p [align="left"]{
+    color: cyan;
+    border: 1px;
+}
